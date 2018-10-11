@@ -46,7 +46,7 @@ fileallhash('./path/to/a_file', function (error, sum) {
 
 // async/streamed (if using callback) & SET one hash
 
-fileallhash('./path/to/a_file', function (error, sum) {
+fileallhash('./path/to/a_file','sha256', function (error, sum) {
   if (error) return console.log(error);
   console.log(sum) // '345eec8796c03e90b9185e4ae3fc12c1e8ebafa540f7c7821fb5da7a54edc704'
 })
