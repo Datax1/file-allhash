@@ -25,7 +25,7 @@ src: (crypto.createHash)[https://nodejs.org/api/crypto.html#crypto_crypto_create
 
 ### API
 
-__file-allhash(path, [callback])__
+__file-allhash(path,hashprotocol, [callback])__
 
 ```javascript
 var fileallhash = require('file-allhash');
