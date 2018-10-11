@@ -1,6 +1,6 @@
 {
   "name": "file-allhash",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Permet d'utiliser tous les Hash-file en 1 seul module",
   "main": "index.js",
   "scripts": {
@@ -9,10 +9,12 @@
   },
   "keywords": [
     "hash-file",
+    "hash",
     "md5",
     "sha1",
     "sha256",
-    "sha512"
+    "sha512",
+    "checksum"
   ],
   "author": "Yoann Follet",
   "license": "ISC",
