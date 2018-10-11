@@ -57,5 +57,5 @@ fileallhash('./path/to/a_file','sha256', function (error, sum) {
 MIT  
 
 ### Thanks
-fileallhash is based on [sha256-file](https://github.com/so-ta/sha256-file)
+fileallhash is based on [sha256-file](https://github.com/so-ta/sha256-file)\
 sha256-file is based on [sha1-file](https://github.com/roryrjb/sha1-file)
