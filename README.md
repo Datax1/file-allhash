@@ -1,6 +1,6 @@
 # file-allhash
 
-> Simply return an sum of a given file. It's can use `md5`, `sha1`, `sha256`, `sha512`, `mode and more..`
+> Simply return an sum of a given file. It's can use `md5`, `sha1`, `sha256`, `sha512`, `more and more..`
 If using async version (by including callback), it will stream;.
 
 ### Installation
