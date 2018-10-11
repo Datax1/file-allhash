@@ -1,5 +1,10 @@
-MIT License
+The MIT License (MIT)
 
+sha1-file  
+Copyright (c) 2015 - 2018 Rory Bradford <roryrjb@gmail.com>.
+sha256-file  
+Copyright (c) 2018 Souta Ozaki.  
+cross-hash-file  
 Copyright (c) 2018 Datax1
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

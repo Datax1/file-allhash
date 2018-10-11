@@ -1,0 +1,20 @@
+{
+  "name": "file-allhash",
+  "version": "0.0.1",
+  "description": "Permet d'utiliser tous les Hash-file en 1 seul module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "hashlist": "node hashlist"
+  },
+  "keywords": [
+    "hash-file",
+    "md5",
+    "sha1",
+    "sha256",
+    "sha512"
+  ],
+  "author": "Yoann Follet",
+  "license": "ISC",
+  "dependencies": {}
+}
