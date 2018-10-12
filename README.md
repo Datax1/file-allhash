@@ -21,7 +21,7 @@ You can list all hash
 $ npm run-script hashlist
 ```
 It's dependent on the available algorithms supported by the version of OpenSSL on the platform.
-src: (crypto.createHash)[https://nodejs.org/api/crypto.html#crypto_crypto_createhash_algorithm_options]
+src: [crypto.createHash](https://nodejs.org/api/crypto.html#crypto_crypto_createhash_algorithm_options)
 
 ### API
 
