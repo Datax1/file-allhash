@@ -1,6 +1,6 @@
 # file-allhash
 
-> Simply return an sum of a given file. It's can use `md5`, `sha1`, `sha256`, `sha512`, `mode and more..`
+> Simply return an sum of a given file. It's can use `md5`, `sha1`, `sha256`, `sha512`, `more and more..`
 If using async version (by including callback), it will stream;.
 
 ### Installation
@@ -21,7 +21,7 @@ You can list all hash
 $ npm run-script hashlist
 ```
 It's dependent on the available algorithms supported by the version of OpenSSL on the platform.
-src: (crypto.createHash)[https://nodejs.org/api/crypto.html#crypto_crypto_createhash_algorithm_options]
+src: [crypto.createHash](https://nodejs.org/api/crypto.html#crypto_crypto_createhash_algorithm_options)
 
 ### API
 
@@ -57,5 +57,5 @@ fileallhash('./path/to/a_file','sha256', function (error, sum) {
 MIT  
 
 ### Thanks
-fileallhash is based on [sha256-file](https://github.com/so-ta/sha256-file)
+fileallhash is based on [sha256-file](https://github.com/so-ta/sha256-file)\
 sha256-file is based on [sha1-file](https://github.com/roryrjb/sha1-file)
