@@ -1,6 +1,6 @@
 {
   "name": "file-allhash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Permet d'utiliser tous les Hash-file en 1 seul module",
   "main": "index.js",
   "scripts": {
